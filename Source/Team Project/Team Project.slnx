@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DataTypes/DataTypes.csproj" Id="aab456b0-4405-4013-a0ef-b8404ae3fd20" />
+  <Project Path="Team Project.csproj">
+    <BuildDependency Project="../DataTypes/DataTypes.csproj" />
+  </Project>
+</Solution>

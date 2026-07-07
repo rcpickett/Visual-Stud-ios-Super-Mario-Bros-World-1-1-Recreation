@@ -1,0 +1,3501 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypes.ObjectList[]">
+    <!-- Load Floor Blocks -->
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>0 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>16 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>32 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>48 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>64 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>80 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>96 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>112 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>128 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>144 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>160 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>176 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>192 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>208 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>224 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>240 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>256 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>272 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>288 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>304 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>320 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>336 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>352 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>368 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>384 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>400 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>416 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>432 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>448 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>464 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>480 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>496 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>512 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>528 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>544 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>560 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>576 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>592 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>608 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>624 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>640 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>656 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>672 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>688 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>704 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>720 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>736 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>752 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>768 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>784 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>800 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>816 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>832 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>848 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>864 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>880 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>896 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>912 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>928 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>944 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>960 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>976 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>992 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1008 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1024 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1040 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1056 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1072 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1088 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>0 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>16 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>32 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>48 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>64 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>80 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>96 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>112 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>128 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>144 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>160 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>176 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>192 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>208 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>224 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>240 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>256 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>272 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>288 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>304 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>320 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>336 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>352 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>368 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>384 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>400 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>416 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>432 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>448 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>464 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>480 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>496 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>512 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>528 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>544 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>560 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>576 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>592 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>608 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>624 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>640 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>656 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>672 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>688 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>704 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>720 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>736 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>752 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>768 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>784 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>800 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>816 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>832 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>848 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>864 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>880 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>896 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>912 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>928 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>944 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>960 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>976 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>992 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1008 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1024 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1040 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1056 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1072 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1088 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1136 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1152 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1168 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1184 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1200 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1216 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1232 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1248 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1264 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1280 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1296 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1312 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1328 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1344 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1360 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1136 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1152 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1168 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1184 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1200 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1216 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1232 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1248 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1264 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1280 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1296 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1312 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1328 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1344 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1360 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1424 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1440 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1456 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1472 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1488 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1504 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1520 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1536 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1552 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1568 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1584 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1600 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1616 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1632 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1648 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1664 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1680 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1696 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1712 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1728 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1744 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1760 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1776 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1792 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1808 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1824 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1840 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1856 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1872 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1888 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1904 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1920 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1936 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1952 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1968 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1984 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2000 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2016 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2032 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2048 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2064 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2080 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2096 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2112 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2128 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2144 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2160 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2176 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2192 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2208 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2224 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2240 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2256 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2272 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2288 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2304 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2320 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2336 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2352 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2368 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2384 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2400 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2416 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2432 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1424 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1440 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1456 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1472 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1488 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1504 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1520 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1536 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1552 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1568 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1584 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1600 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1616 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1632 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1648 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1664 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1680 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1696 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1712 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1728 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1744 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1760 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1776 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1792 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1808 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1824 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1840 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1856 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1872 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1888 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1904 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1920 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1936 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1952 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1968 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>1984 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2000 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2016 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2032 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2048 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2064 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2080 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2096 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2112 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2128 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2144 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2160 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2176 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2192 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2208 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2224 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2240 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2256 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2272 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2288 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2304 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2320 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2336 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2352 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2368 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2384 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2400 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2416 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2432 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2480 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2496 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2512 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2528 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2544 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2560 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2576 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2592 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2608 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2624 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2640 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2656 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2672 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2688 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2704 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2720 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2736 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2752 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2768 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2784 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2800 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2816 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2832 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2848 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2864 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2880 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2896 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2912 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2928 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2944 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2960 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2976 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2992 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3008 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3024 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3040 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3056 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3072 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3088 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3104 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3120 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3136 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3152 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3168 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3184 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3200 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3216 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3232 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3248 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3264 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3280 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3296 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3312 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2480 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2496 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2512 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2528 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2544 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2560 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2576 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2592 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2608 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2624 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2640 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2656 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2672 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2688 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2704 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2720 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2736 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2752 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2768 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2784 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2800 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2816 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2832 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2848 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2864 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2880 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2896 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2912 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2928 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2944 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2960 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2976 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>2992 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3008 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3024 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3040 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3056 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3072 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3088 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3104 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3120 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3136 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3152 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3168 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3184 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3200 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3216 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3232 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3248 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3264 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3280 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3296 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRegularFloorBlock</Type>
+      <Location>3312 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+
+    <!-- Load Interactive Blocks -->
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>256 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>320 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionIceBlock</Type>
+      <Location>336 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>352 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>368 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>384 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>352 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>HiddenBlock</Type>
+      <Location>1024 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1280 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1296 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1312 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1328 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1344 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1360 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1376 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1392 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1456 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1472 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1488 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>1504 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionIceBlock</Type>
+      <Location>1744 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1936 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1952 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1968 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>2048 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>2064 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>2080 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>2096 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1232 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionIceBlock</Type>
+      <Location>1248 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1264 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedCoinBlock</Type>
+      <Location>1504 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1600 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedStarBlock</Type>
+      <Location>1616 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>1696 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>1744 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>1792 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>1888 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>2064 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>2080 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>2688 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>2704 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowQuestionCoinBlock</Type>
+      <Location>2720 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SnowRedBlock</Type>
+      <Location>2736 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+
+    <!-- Load Misc Objects -->
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>136 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>312 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>ThreeClouds</Type>
+      <Location>440 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>TwoClouds</Type>
+      <Location>584 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>904 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>1080 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>ThreeClouds</Type>
+      <Location>1208 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>TwoClouds</Type>
+      <Location>1352 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>1672 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>1848 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>ThreeClouds</Type>
+      <Location>1976 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>TwoClouds</Type>
+      <Location>2120 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>2440 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>2616 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>ThreeClouds</Type>
+      <Location>2744 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>TwoClouds</Type>
+      <Location>2888 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneCloud</Type>
+      <Location>3208 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>BigHill</Type>
+      <Location>0 173</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>ThreeBush</Type>
+      <Location>184 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SmallHill</Type>
+      <Location>256 189</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneBush</Type>
+      <Location>376 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>TwoBush</Type>
+      <Location>664 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>BigHill</Type>
+      <Location>768 173</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>ThreeBush</Type>
+      <Location>952 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SmallHill</Type>
+      <Location>1024 189</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneBush</Type>
+      <Location>1144 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>TwoBush</Type>
+      <Location>1432 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>BigHill</Type>
+      <Location>1536 173</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>ThreeBush</Type>
+      <Location>1720 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SmallHill</Type>
+      <Location>1792 189</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneBush</Type>
+      <Location>1912 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>TwoBush</Type>
+      <Location>2200 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>BigHill</Type>
+      <Location>2304 173</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneBush</Type>
+      <Location>2520 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SmallHill</Type>
+      <Location>2560 189</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneBush</Type>
+      <Location>2680 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>BigHill</Type>
+      <Location>3072 173</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>OneBush</Type>
+      <Location>3288 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SmallPipe</Type>
+      <Location>448 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>MediumPipe</Type>
+      <Location>608 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>LargePipe</Type>
+      <Location>736 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>LargePipeIn</Type>
+      <Location>912 144</Location>
+      <AdditionalInfo>-256 32$1,-272%0</AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SmallPipe</Type>
+      <Location>2608 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>SmallPipe</Type>
+      <Location>2864 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2192 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2176 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2192 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2160 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2176 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2192 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2144 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2160 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2176 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2192 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2240 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2240 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2256 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2240 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2256 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2272 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2240 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2256 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2272 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2288 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2416 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2432 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2400 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2416 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2432 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2384 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2400 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2416 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2432 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2368 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2384 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2400 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2416 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2432 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2480 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2480 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2496 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2480 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2496 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2512 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2480 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2496 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2512 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2528 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2992 96</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 96</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 96</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2976 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2992 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2960 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2976 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2992 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2944 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2960 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2976 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2992 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2928 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2944 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2960 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2976 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2992 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2912 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2928 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2944 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2960 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2976 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2992 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2896 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2912 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2928 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2944 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2960 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2976 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>2992 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3008 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>StepPyramidBlock</Type>
+      <Location>3024 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>Pole</Type>
+      <Location>3176 40</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>Flag</Type>
+      <Location>3160 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>CastleFlag</Type>
+      <Location>3265 135</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>Castle</Type>
+      <Location>3232 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+
+    <!-- Load Enemies -->
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>352 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>640 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>816 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>842 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>1280 64</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>1312 64</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>1552 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>1576 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>KoopaSprite</Type>
+      <Location>1712 186</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>1824 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>1848 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>1984 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>2008 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>2048 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>2072 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>2784 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>GoombaSprite</Type>
+      <Location>2808 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>PiranhaSprite</Type>
+      <Location>920 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+
+    <!-- Load Mario Start Position, World Number, Level Limits -->
+    <Item>
+      <Type>PlayerStartPosition</Type>
+      <Location>42 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>WorldNumber</Type>
+      <Location>1 2</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>Limits</Type>
+      <Location>0 0</Location>
+      <AdditionalInfo>3328 240</AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>Time</Type>
+      <Location>0 0</Location>
+      <AdditionalInfo>400</AdditionalInfo>
+    </Item>
+
+    <!-- Load Underground Level -->
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-208 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-192 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-176 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-160 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-144 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-128 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-112 32</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>HorizontalPipeRight</Type>
+      <Location>-32 32</Location>
+      <AdditionalInfo>2616 176$0</AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 48</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 64</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-192 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-176 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-160 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-144 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-128 80</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 96</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-208 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-192 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-176 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-160 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-144 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-128 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-112 112</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 128</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-208 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-192 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-176 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-160 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-144 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-128 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>FloatingCoin</Type>
+      <Location>-112 144</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-208 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-192 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-176 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-160 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-144 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-128 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-112 160</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-208 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-192 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-176 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-160 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-144 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-128 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-112 176</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-272 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-208 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-192 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-176 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-160 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-144 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-128 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundBlock</Type>
+      <Location>-112 192</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-272 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-256 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-240 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-224 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-208 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-192 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-176 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-160 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-144 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-128 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-112 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-96 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-80 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-64 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-48 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-32 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-16 208</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-272 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-256 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-240 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-224 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-208 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-192 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-176 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-160 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-144 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-128 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-112 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-96 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-80 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-64 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-48 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-32 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+    <Item>
+      <Type>UndergroundFloorBlock</Type>
+      <Location>-16 224</Location>
+      <AdditionalInfo></AdditionalInfo>
+    </Item>
+  </Asset>
+</XnaContent>

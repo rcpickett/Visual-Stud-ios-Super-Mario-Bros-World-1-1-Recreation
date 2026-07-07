@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypes.HighScoreList[]">
+    <Item><Score>000009</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000008</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000007</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000006</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000005</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000004</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000003</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000002</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000001</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+    <Item><Score>000000</Score><Name>PLAYER</Name><TimeStamp>2009-03-13</TimeStamp></Item>
+  </Asset>
+</XnaContent>
