@@ -4,7 +4,7 @@
 
 
 
-!\[Gameplay Screenshot](Documentation/Screenshots/gameplay.png)
+!\[Gameplay Screenshot](Documentation/Screenshots/gameplay-2.png)
 
 
 
