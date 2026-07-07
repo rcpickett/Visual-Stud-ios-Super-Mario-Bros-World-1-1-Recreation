@@ -2,13 +2,21 @@
 .vs/
 *.user
 *.suo
+*.csproj.user
 
 # Build output
 bin/
 obj/
 
+# Logs
+*.log
+
 # Generated files
 *.cache
+
+# Temporary files
+*.tmp
+*.bak
 
 # XNA / Content build output
 Content/bin/
