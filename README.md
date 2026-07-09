@@ -2,35 +2,19 @@
 
 ## Super Mario Bros. World 1-1 Recreation
 
-
-
 ![Gameplay Screenshot](Documentation/Screenshots/gameplay-2.png)
-
-
 
 A recreation of the first level of **Super Mario Bros.** developed as a four-person software engineering team project using C# and Microsoft XNA.
 
-
-
 This project focused on applying object-oriented programming principles, game architecture concepts, real-time systems design, and collaborative software development practices.
-
-
 
 ---
 
-
-
 # Project Overview
-
-
 
 The goal of this project was to recreate the gameplay experience of the original Super Mario Bros. World 1-1 while building the underlying systems from scratch.
 
-
-
 The project includes:
-
-
 
 - Player movement and controls
 - Collision detection
@@ -43,11 +27,7 @@ The project includes:
 - Level management
 - XML-based content handling
 
-
-
 ---
-
-
 
 # Technologies
 
@@ -59,21 +39,13 @@ The project includes:
 | Development Environment | Visual Studio                               |
 | Version Control         | Team Foundation Version Control (TFVC), Git |
 
-
 ---
-
 
 # My Contributions
 
-
-
 **Role:** Developer (4-person team)
 
-
-
 My primary contributions included:
-
-
 
 ## Gameplay Systems
 - Player behavior and character implementation
@@ -114,7 +86,6 @@ The recovered source history demonstrates iterative development through multiple
 # Team
 
 **Visual Stud-ios**
-
 A four-person software engineering team that developed this project as part of undergraduate coursework.
 
 ---
@@ -122,10 +93,5 @@ A four-person software engineering team that developed this project as part of u
 # Future Improvements
 - Modernize XNA framework dependencies
 - Improve documentation
-
-\- Add gameplay screenshots and technical diagrams
-
-\- Continue modernization for current platforms
-
-
-
+- Add gameplay screenshots and technical diagrams
+- Continue modernization for current platforms
